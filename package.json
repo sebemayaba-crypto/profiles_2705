@@ -1,0 +1,15 @@
+{
+  "name": "prg-deploy-app",
+  "version": "1.0.0",
+  "description": "Node.js app for Azure deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo \"No build step specified\"",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
